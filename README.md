@@ -6,7 +6,7 @@ This repository features a comprehensive **four-page Power BI Dashboard** design
 <img width="1298" height="732" alt="Image" src="https://github.com/user-attachments/assets/a147e1af-ca9c-4d26-8265-292fc2d09dd8" />
 
 <img width="1302" height="722" alt="Image" src="https://github.com/user-attachments/assets/ce99072e-1548-4c65-8348-5dbe9fa121ea" />
-
+<img width="1303" height="732" alt="Image" src="https://github.com/user-attachments/assets/ab86aff0-5b49-4eda-b820-b68ae4bf95bf" />
 
 
 
