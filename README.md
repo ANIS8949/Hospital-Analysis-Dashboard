@@ -3,6 +3,7 @@
 ## Project Overview
 This repository features a comprehensive **four-page Power BI Dashboard** designed to provide actionable business intelligence for hospital management. It integrates financial, operational, and clinical data to optimize resource allocation and track departmental performance.
 
+<img width="1298" height="732" alt="Image" src="https://github.com/user-attachments/assets/a147e1af-ca9c-4d26-8265-292fc2d09dd8" />
 
 
 ## Key Insights
